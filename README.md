@@ -1,17 +1,16 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ <h2 align="center">Estatísticas do GitHub</h2>
+ <p align="center">Estatísticas do GitHub geradas dinamicamente!</p>
 </p>
-  <p align="center">
+
+<!--
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
@@ -28,7 +27,6 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
-
   <p align="center">
     <a href="#demo">Ver Demostração</a>
     ·
@@ -42,23 +40,21 @@
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
 </p>
-
-
-
+-->
 
 ### Olá, So Fábio Desenvolvedor 👋
 
 - 🔭 Sou estudante de Analise e desenvolvimento de sistema
 - 🌱 Estudante do Senac
-- 😄 Ele / Dele
 
 <div align="center">
   <a href="https://github.com/Fcamposdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FcamposDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcamposdev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FcamposDev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcamposdev&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-<div style="display: inline_block"><br>
+#### 🏫 Em aprendizado ✏️
+<div style="display: inline_block">
     <img align="center" alt="FcamposDev - Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Fcamposdev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Fcamposdev-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
