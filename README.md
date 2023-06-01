@@ -44,8 +44,8 @@
 
 ### Olá, So Fábio Desenvolvedor 👋
 
-- 🔭 Sou estudante de Analise e desenvolvimento de sistema
-- 🌱 Estudante do Senac
+- 🔭 Student systems analysis and development - Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Aluno Senac Brasil
 
 <div align="center">
   <a href="https://github.com/Fcamposdev">
